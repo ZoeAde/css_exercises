@@ -3,3 +3,29 @@ img {
 }
 
 /* Code Under This Line */
+
+.div1 {
+  border-style: solid;
+  border-color: red;
+  border-width: 10px;
+}
+
+.div2 {
+  border-style: dashed;
+  border-color: blue;
+  border-width: 10px;
+}
+
+.div3 {
+  border-left: solid;
+  border-color: green;
+  border-width: 10px;
+}
+
+.flag {
+  border-style: solid;
+  border-left-color: blue;
+  border-right-color: blue;
+  border-top-color: red;
+  border-bottom-color: red;
+}

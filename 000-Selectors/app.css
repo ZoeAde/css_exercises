@@ -12,3 +12,19 @@ img {
 }
 
 /* Code Under This Line */
+
+.collection {
+  background-color: green;
+}
+
+.foo {
+  background-color: red;
+}
+
+.bar, .fiz {
+  background-color: blue;
+}
+
+.giant {
+  height: 100%
+}
