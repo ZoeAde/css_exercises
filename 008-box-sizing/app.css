@@ -15,12 +15,15 @@ img {
 div {
   background: white;
   color: #222;
-  padding: 20px;
+  text-indent: 10px;
 }
 
 .column {
   float: left;
   width: 25%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
 }
 
 /* Your Code Goes Under This Line */

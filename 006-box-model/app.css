@@ -17,20 +17,41 @@ img {
   #7BBADE
 */
 
-
 .a {
-  background-color: #FFED5D
-  background-size: 200px ;
+  background-color: #FFED5D;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  padding: 15px;
+  padding-bottom: 15px;
 }
 
-/*.b {
-  background-color: #FF7050
+.b {
+  background-color: #FF7050;
+  width: 95%;
+  height: 95%;
+  margin: auto;
+  padding: 10px;
+
 }
 .c {
-  background-color: #222
+  background-color: #222;
+  padding: 8px;
+  width: 95%;
+  height: 70%;
+  margin: auto;
 }
 
 .d {
-  background-color: #7BBADE
+  background-color: #7BBADE;
+  padding: 2px;
+  width: 95%;
+  height: 95%;
+  margin: auto;
 }
-*/
+
+.text {
+  text-indent: 9px;
+  margin-bottom: 0px;
+  font-size: 1em;
+}
